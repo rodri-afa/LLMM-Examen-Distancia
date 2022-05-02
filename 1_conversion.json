@@ -1,0 +1,30 @@
+{
+
+
+    "remitente":{
+        "usuario":{
+            "nombre":"tipo",
+            "apellidos":"tipo",
+            "email":"tipo"
+        }
+    },
+    "destinatario":[
+        {
+            "nombre":"tipo",
+            "apellidos":"tipo",
+            "email":"tipo"
+        },
+        {
+            "nombre":"tipo",
+            "apellidos":"tipo",
+            "email":"tipo"
+        },
+        {
+            "nombre":"tipo",
+            "apellidos":"tipo",
+            "email":"tipo"
+        }
+    ],
+    "hobbies":["correr", "jhasdkf", "sadjkhfk"]
+
+}
